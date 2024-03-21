@@ -58,7 +58,7 @@ const MediaUploader = ({
 
   return (
    <CldUploadWidget
-   uploadPreset='praba_imageai'
+   uploadPreset='imagineit'
    options={{
     multiple: false,
     resourceType: "image"
