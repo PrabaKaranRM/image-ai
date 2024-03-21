@@ -129,7 +129,7 @@ export async function getAllImages({ limit = 9, page = 1, searchQuery = '' }: {
         secure: true,
       })
   
-      let expression = 'folder=imageai';
+      let expression = 'folder=imagineit';
   
       if (searchQuery) {
         expression += ` AND ${searchQuery}`
