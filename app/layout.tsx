@@ -11,7 +11,7 @@ variable: '--font-ibm-plex'
 });
 
 export const metadata: Metadata = {
-  title: "AltervisionAI",
+  title: "Imagineit",
   description: "AI-powered image generator",
 };
 
